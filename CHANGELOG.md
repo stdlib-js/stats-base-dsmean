@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-05)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`aa4e85d`](https://github.com/stdlib-js/stdlib/commit/aa4e85d80af3b9f6e61e4d8962945ad57f8fe156) - **feat:** add C `ndarray` interface and refactor implementation for `stats/base/dsmean` [(#4300)](https://github.com/stdlib-js/stdlib/pull/4300) _(by Neeraj Pathak, Athan Reines, stdlib-bot)_
 -   [`ac1c7e9`](https://github.com/stdlib-js/stdlib/commit/ac1c7e90fce8af40e97a4b3718a9d1b7318d58b0) - **refactor:** update `stats/base/dsmean` native addon from C++ to C [(#4721)](https://github.com/stdlib-js/stdlib/pull/4721) _(by Prashant Kumar Yadav)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -39,8 +40,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Neeraj Pathak
 -   Philipp Burckhardt
